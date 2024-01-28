@@ -4,7 +4,7 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'http',
+        protocol: 'https',
         hostname: 'naughties-entertainment-xqtg3.ondigitalocean.app',
         port: '80',
         pathname: '/uploads/**',
